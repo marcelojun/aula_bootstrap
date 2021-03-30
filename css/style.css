@@ -1,13 +1,28 @@
+body{
+    font: bold; 
 
+}
 .navbar{
     background-color:blue
 }
 
 .quem_somos{
     background-color: aquamarine;
+    color: gray;
 }
 
 .margin{
-    padding-top: 5px
-    
+    padding-top: 5px;
+    padding-bottom: 30px;    
 }
+.parceiros{
+
+background-color: yellowgreen;
+}
+.serviços{
+    background-color: white;
+}
+.mjfooter{
+    background-color: teal;
+}
+
